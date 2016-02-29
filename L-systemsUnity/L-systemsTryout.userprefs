@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\cam.cs">
+    <Files>
+      <File FileName="Assets\cam.cs" Line="1" Column="1" />
+      <File FileName="Assets\startScript.cs" Line="388" Column="2" />
+      <File FileName="Assets\presets.cs" Line="1" Column="1" />
+      <File FileName="Assets\startScript3d.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
